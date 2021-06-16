@@ -1,4 +1,3 @@
-
 import { signout } from './api-auth.js'
 
 const auth = {
